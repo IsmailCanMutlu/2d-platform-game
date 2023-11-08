@@ -1,7 +1,7 @@
 # 2d-platform-game
 2D platform game created using Python's Pygame library
 
-##Project Description
+## Project Description
 
 This game represents a simple 2D platformer where a character navigates the 2D world, jumps on platforms, and overcomes obstacles. The game allows the character to move smoothly and quickly, jump, and interact with its environment.
 
@@ -15,7 +15,7 @@ You can install Pygame using the following command:
 ```bash 
 $ pip install pygame
 ```
-##H ow to Play
+## How to Play
 To play the game, navigate to the project directory and run the following command:
 ```bash 
 $ python main.py
@@ -37,7 +37,7 @@ The objective of the game is to progress by jumping across platforms and avoidin
 ### Platforms and other design
 <img src='https://github.com/IsmailCanMutlu/2d-platform-game/blob/master/Tasar%C4%B1mlar/spritesheet_jumper.png' width="350" height="300">
 
-##Project Contents
+## Project Contents
 This project includes the following key components:
 
 main.py: The main game file that initiates the game loop and runs the game.
@@ -45,10 +45,10 @@ player.py: Contains the class representing the player character and the code to 
 platform.py: Manages the design and movement of the ground and platforms.
 assets/: A folder containing image, sound, and other files used in the game.
 
-##License
+## License
 This project is licensed under the MIT License. For more information, please refer to the [MIT License](LICENSE).
 
-##Contact
-If you have any questions or feedback about the project, please contact @IsmailCanMutlu(https://github.com/IsmailCanMutlu).
+## Contact
+If you have any questions or feedback about the project, please contact [@IsmailCanMutlu](https://github.com/IsmailCanMutlu).
 
 You can customize this sample readme file according to the specific features and requirements of your project. Feel free to add more information or make edits to suit your needs.
