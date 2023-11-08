@@ -40,10 +40,13 @@ The objective of the game is to progress by jumping across platforms and avoidin
 ## Project Contents
 This project includes the following key components:
 
-main.py: The main game file that initiates the game loop and runs the game.
-player.py: Contains the class representing the player character and the code to manage the character's movements.
-platform.py: Manages the design and movement of the ground and platforms.
-assets/: A folder containing image, sound, and other files used in the game.
+.main.py: The main game file that initiates the game loop and runs the game.
+
+.player.py: Contains the class representing the player character and the code to manage the character's movements.
+
+.platform.py: Manages the design and movement of the ground and platforms.
+
+.assets/: A folder containing image, sound, and other files used in the game.
 
 ## License
 This project is licensed under the MIT License. For more information, please refer to the [MIT License](LICENSE).
