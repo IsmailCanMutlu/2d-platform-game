@@ -9,4 +9,4 @@
 <img src='https://github.com/IsmailCanMutlu/2d-platform-game/blob/master/Tasar%C4%B1mlar/zombie_walk1.png'>
 
 ### Platforms and other design
-<img src='https://github.com/IsmailCanMutlu/2d-platform-game/blob/master/Tasar%C4%B1mlar/spritesheet_jumper.png'>
+<img src='https://github.com/IsmailCanMutlu/2d-platform-game/blob/master/Tasar%C4%B1mlar/spritesheet_jumper.png'width="250" height="200">
